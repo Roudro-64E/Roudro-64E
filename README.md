@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/Roudro-64E/Roudro-64E/blob/main/FB_IMG_1754933784861.png)
 <h1 align="center">Hi 👋, I'm Roudro Chando</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
